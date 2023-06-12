@@ -1,5 +1,2 @@
 test_02.txt
-ver.001_1
-abc‚ð’Ç‰Á
-aaaa
-bbbbbbb
+ver.001
